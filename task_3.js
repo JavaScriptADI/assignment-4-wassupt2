@@ -7,4 +7,4 @@ function countBs(word, letter) {
     }
     return count;
   }
-  console.log(countChar("Bumblebee", "b"));
+  console.log(countBs("Bumblebee", "b"));
